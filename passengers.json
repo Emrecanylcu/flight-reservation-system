@@ -1,0 +1,49 @@
+[
+    {
+        "username": "Ali",
+        "password": "123",
+        "name": "Ali",
+        "surname": "Yazar",
+        "balance": 399988.0,
+        "tickets": [
+            {
+                "flight_no": "TK107",
+                "from": "Ankara",
+                "to": "Gaziantep",
+                "date": "01.05.2026",
+                "original_price": 12.0,
+                "paid_price": 12.0,
+                "discount_type": "No Discount",
+                "discount_rate": 0,
+                "seat_no": 1
+            }
+        ],
+        "transactions": [
+            {
+                "type": "Balance Added",
+                "amount": 400000.0
+            },
+            {
+                "type": "Ticket Purchase",
+                "flight_no": "TK107",
+                "amount": 12.0,
+                "discount": "No Discount"
+            }
+        ],
+        "discount_code": "WELCOME20",
+        "discount_used": false,
+        "flight_count": 1
+    },
+    {
+        "username": "Veli",
+        "password": "123",
+        "name": "Veli",
+        "surname": "Bozar",
+        "balance": 0,
+        "tickets": [],
+        "transactions": [],
+        "discount_code": "WELCOME20",
+        "discount_used": false,
+        "flight_count": 0
+    }
+]

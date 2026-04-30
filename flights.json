@@ -1,0 +1,580 @@
+[
+    {
+        "flight_no": "TK101",
+        "from": "Ankara",
+        "to": "Istanbul",
+        "date": "01.05.2026",
+        "price": 1500.0,
+        "seats": [
+            {
+                "seat_no": 1,
+                "status": "empty",
+                "passenger": null
+            },
+            {
+                "seat_no": 2,
+                "status": "empty",
+                "passenger": null
+            },
+            {
+                "seat_no": 3,
+                "status": "empty",
+                "passenger": null
+            },
+            {
+                "seat_no": 4,
+                "status": "empty",
+                "passenger": null
+            },
+            {
+                "seat_no": 5,
+                "status": "empty",
+                "passenger": null
+            },
+            {
+                "seat_no": 6,
+                "status": "empty",
+                "passenger": null
+            },
+            {
+                "seat_no": 7,
+                "status": "empty",
+                "passenger": null
+            },
+            {
+                "seat_no": 8,
+                "status": "empty",
+                "passenger": null
+            },
+            {
+                "seat_no": 9,
+                "status": "empty",
+                "passenger": null
+            },
+            {
+                "seat_no": 10,
+                "status": "empty",
+                "passenger": null
+            }
+        ],
+        "assigned_staff": []
+    },
+    {
+        "flight_no": "TK102",
+        "from": "Ankara",
+        "to": "Izmir",
+        "date": "01.05.2026",
+        "price": 1200.0,
+        "seats": [
+            {
+                "seat_no": 1,
+                "status": "empty",
+                "passenger": null
+            },
+            {
+                "seat_no": 2,
+                "status": "empty",
+                "passenger": null
+            },
+            {
+                "seat_no": 3,
+                "status": "empty",
+                "passenger": null
+            },
+            {
+                "seat_no": 4,
+                "status": "empty",
+                "passenger": null
+            },
+            {
+                "seat_no": 5,
+                "status": "empty",
+                "passenger": null
+            },
+            {
+                "seat_no": 6,
+                "status": "empty",
+                "passenger": null
+            },
+            {
+                "seat_no": 7,
+                "status": "empty",
+                "passenger": null
+            },
+            {
+                "seat_no": 8,
+                "status": "empty",
+                "passenger": null
+            }
+        ],
+        "assigned_staff": []
+    },
+    {
+        "flight_no": "TK103",
+        "from": "Ankara",
+        "to": "Bursa",
+        "date": "01.05.2026",
+        "price": 800.0,
+        "seats": [
+            {
+                "seat_no": 1,
+                "status": "empty",
+                "passenger": null
+            },
+            {
+                "seat_no": 2,
+                "status": "empty",
+                "passenger": null
+            },
+            {
+                "seat_no": 3,
+                "status": "empty",
+                "passenger": null
+            },
+            {
+                "seat_no": 4,
+                "status": "empty",
+                "passenger": null
+            },
+            {
+                "seat_no": 5,
+                "status": "empty",
+                "passenger": null
+            },
+            {
+                "seat_no": 6,
+                "status": "empty",
+                "passenger": null
+            },
+            {
+                "seat_no": 7,
+                "status": "empty",
+                "passenger": null
+            },
+            {
+                "seat_no": 8,
+                "status": "empty",
+                "passenger": null
+            },
+            {
+                "seat_no": 9,
+                "status": "empty",
+                "passenger": null
+            },
+            {
+                "seat_no": 10,
+                "status": "empty",
+                "passenger": null
+            }
+        ],
+        "assigned_staff": []
+    },
+    {
+        "flight_no": "TK104",
+        "from": "Ankara",
+        "to": "Antalya",
+        "date": "01.05.2026",
+        "price": 1300.0,
+        "seats": [
+            {
+                "seat_no": 1,
+                "status": "empty",
+                "passenger": null
+            },
+            {
+                "seat_no": 2,
+                "status": "empty",
+                "passenger": null
+            },
+            {
+                "seat_no": 3,
+                "status": "empty",
+                "passenger": null
+            },
+            {
+                "seat_no": 4,
+                "status": "empty",
+                "passenger": null
+            },
+            {
+                "seat_no": 5,
+                "status": "empty",
+                "passenger": null
+            },
+            {
+                "seat_no": 6,
+                "status": "empty",
+                "passenger": null
+            },
+            {
+                "seat_no": 7,
+                "status": "empty",
+                "passenger": null
+            },
+            {
+                "seat_no": 8,
+                "status": "empty",
+                "passenger": null
+            },
+            {
+                "seat_no": 9,
+                "status": "empty",
+                "passenger": null
+            },
+            {
+                "seat_no": 10,
+                "status": "empty",
+                "passenger": null
+            },
+            {
+                "seat_no": 11,
+                "status": "empty",
+                "passenger": null
+            },
+            {
+                "seat_no": 12,
+                "status": "empty",
+                "passenger": null
+            },
+            {
+                "seat_no": 13,
+                "status": "empty",
+                "passenger": null
+            },
+            {
+                "seat_no": 14,
+                "status": "empty",
+                "passenger": null
+            },
+            {
+                "seat_no": 15,
+                "status": "empty",
+                "passenger": null
+            },
+            {
+                "seat_no": 16,
+                "status": "empty",
+                "passenger": null
+            },
+            {
+                "seat_no": 17,
+                "status": "empty",
+                "passenger": null
+            },
+            {
+                "seat_no": 18,
+                "status": "empty",
+                "passenger": null
+            },
+            {
+                "seat_no": 19,
+                "status": "empty",
+                "passenger": null
+            },
+            {
+                "seat_no": 20,
+                "status": "empty",
+                "passenger": null
+            },
+            {
+                "seat_no": 21,
+                "status": "empty",
+                "passenger": null
+            },
+            {
+                "seat_no": 22,
+                "status": "empty",
+                "passenger": null
+            },
+            {
+                "seat_no": 23,
+                "status": "empty",
+                "passenger": null
+            },
+            {
+                "seat_no": 24,
+                "status": "empty",
+                "passenger": null
+            },
+            {
+                "seat_no": 25,
+                "status": "empty",
+                "passenger": null
+            },
+            {
+                "seat_no": 26,
+                "status": "empty",
+                "passenger": null
+            }
+        ],
+        "assigned_staff": []
+    },
+    {
+        "flight_no": "TK105",
+        "from": "Ankara",
+        "to": "Adana",
+        "date": "01.05.2026",
+        "price": 1000.0,
+        "seats": [
+            {
+                "seat_no": 1,
+                "status": "empty",
+                "passenger": null
+            },
+            {
+                "seat_no": 2,
+                "status": "empty",
+                "passenger": null
+            },
+            {
+                "seat_no": 3,
+                "status": "empty",
+                "passenger": null
+            },
+            {
+                "seat_no": 4,
+                "status": "empty",
+                "passenger": null
+            },
+            {
+                "seat_no": 5,
+                "status": "empty",
+                "passenger": null
+            },
+            {
+                "seat_no": 6,
+                "status": "empty",
+                "passenger": null
+            },
+            {
+                "seat_no": 7,
+                "status": "empty",
+                "passenger": null
+            },
+            {
+                "seat_no": 8,
+                "status": "empty",
+                "passenger": null
+            },
+            {
+                "seat_no": 9,
+                "status": "empty",
+                "passenger": null
+            },
+            {
+                "seat_no": 10,
+                "status": "empty",
+                "passenger": null
+            },
+            {
+                "seat_no": 11,
+                "status": "empty",
+                "passenger": null
+            },
+            {
+                "seat_no": 12,
+                "status": "empty",
+                "passenger": null
+            },
+            {
+                "seat_no": 13,
+                "status": "empty",
+                "passenger": null
+            },
+            {
+                "seat_no": 14,
+                "status": "empty",
+                "passenger": null
+            },
+            {
+                "seat_no": 15,
+                "status": "empty",
+                "passenger": null
+            }
+        ],
+        "assigned_staff": []
+    },
+    {
+        "flight_no": "TK106",
+        "from": "Ankara",
+        "to": "Konya",
+        "date": "01.05.2026",
+        "price": 500.0,
+        "seats": [
+            {
+                "seat_no": 1,
+                "status": "empty",
+                "passenger": null
+            },
+            {
+                "seat_no": 2,
+                "status": "empty",
+                "passenger": null
+            },
+            {
+                "seat_no": 3,
+                "status": "empty",
+                "passenger": null
+            },
+            {
+                "seat_no": 4,
+                "status": "empty",
+                "passenger": null
+            },
+            {
+                "seat_no": 5,
+                "status": "empty",
+                "passenger": null
+            },
+            {
+                "seat_no": 6,
+                "status": "empty",
+                "passenger": null
+            },
+            {
+                "seat_no": 7,
+                "status": "empty",
+                "passenger": null
+            },
+            {
+                "seat_no": 8,
+                "status": "empty",
+                "passenger": null
+            },
+            {
+                "seat_no": 9,
+                "status": "empty",
+                "passenger": null
+            },
+            {
+                "seat_no": 10,
+                "status": "empty",
+                "passenger": null
+            },
+            {
+                "seat_no": 11,
+                "status": "empty",
+                "passenger": null
+            },
+            {
+                "seat_no": 12,
+                "status": "empty",
+                "passenger": null
+            },
+            {
+                "seat_no": 13,
+                "status": "empty",
+                "passenger": null
+            },
+            {
+                "seat_no": 14,
+                "status": "empty",
+                "passenger": null
+            },
+            {
+                "seat_no": 15,
+                "status": "empty",
+                "passenger": null
+            },
+            {
+                "seat_no": 16,
+                "status": "empty",
+                "passenger": null
+            },
+            {
+                "seat_no": 17,
+                "status": "empty",
+                "passenger": null
+            },
+            {
+                "seat_no": 18,
+                "status": "empty",
+                "passenger": null
+            },
+            {
+                "seat_no": 19,
+                "status": "empty",
+                "passenger": null
+            },
+            {
+                "seat_no": 20,
+                "status": "empty",
+                "passenger": null
+            },
+            {
+                "seat_no": 21,
+                "status": "empty",
+                "passenger": null
+            },
+            {
+                "seat_no": 22,
+                "status": "empty",
+                "passenger": null
+            },
+            {
+                "seat_no": 23,
+                "status": "empty",
+                "passenger": null
+            },
+            {
+                "seat_no": 24,
+                "status": "empty",
+                "passenger": null
+            },
+            {
+                "seat_no": 25,
+                "status": "empty",
+                "passenger": null
+            },
+            {
+                "seat_no": 26,
+                "status": "empty",
+                "passenger": null
+            },
+            {
+                "seat_no": 27,
+                "status": "empty",
+                "passenger": null
+            },
+            {
+                "seat_no": 28,
+                "status": "empty",
+                "passenger": null
+            },
+            {
+                "seat_no": 29,
+                "status": "empty",
+                "passenger": null
+            },
+            {
+                "seat_no": 30,
+                "status": "empty",
+                "passenger": null
+            }
+        ],
+        "assigned_staff": []
+    },
+    {
+        "flight_no": "TK107",
+        "from": "Ankara",
+        "to": "Gaziantep",
+        "date": "01.05.2026",
+        "price": 12.0,
+        "seats": [
+            {
+                "seat_no": 1,
+                "status": "taken",
+                "passenger": "Ali"
+            }
+        ],
+        "assigned_staff": [
+            {
+                "username": "ali",
+                "name": "Ali",
+                "surname": "Cabbar",
+                "role": "cabin",
+                "salary": 10000.0
+            }
+        ]
+    }
+]

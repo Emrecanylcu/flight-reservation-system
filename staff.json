@@ -1,0 +1,42 @@
+[
+    {
+        "username": "ali",
+        "password": "12345",
+        "name": "Ali",
+        "surname": "Cabbar",
+        "role": "cabin",
+        "salary": 10000.0
+    },
+    {
+        "username": "veli",
+        "password": "12345",
+        "name": "Veli",
+        "surname": "Cabbar",
+        "role": "cabin",
+        "salary": 10000.0
+    },
+    {
+        "username": "abuzer",
+        "password": "123456",
+        "name": "Abuzer",
+        "surname": "Kömürcü",
+        "role": "pilot",
+        "salary": 20000.0
+    },
+    {
+        "username": "meryem",
+        "password": "12345",
+        "name": "Meryem",
+        "surname": "Ana",
+        "role": "cabin",
+        "salary": 10000.0
+    },
+    {
+        "username": "Elif",
+        "password": "123456",
+        "name": "Elifnaz",
+        "surname": "Başgören",
+        "role": "pilot",
+        "salary": 30000.0
+    }
+]
